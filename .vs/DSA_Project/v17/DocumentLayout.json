@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hashinie\\source\\repos\\DSA Final Project\\DSA_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{600B896E-6E40-440E-B1F5-94AB35418554}|DSA_Project\\DSA_Project.csproj|c:\\users\\hashinie\\source\\repos\\dsa final project\\dsa_project\\dsa_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600B896E-6E40-440E-B1F5-94AB35418554}|DSA_Project\\DSA_Project.csproj|solutionrelative:dsa_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 273,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hashinie\\source\\repos\\DSA Final Project\\DSA_Project\\DSA_Project\\Program.cs",
+              "RelativeDocumentMoniker": "DSA_Project\\Program.cs",
+              "ToolTip": "C:\\Users\\Hashinie\\source\\repos\\DSA Final Project\\DSA_Project\\DSA_Project\\Program.cs",
+              "RelativeToolTip": "DSA_Project\\Program.cs",
+              "ViewState": "AgIAABwCAAAAAAAAAAAswDkCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:37:46.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

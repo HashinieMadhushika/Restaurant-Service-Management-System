@@ -1,0 +1,14 @@
+C:\Users\Hashinie\source\repos\DSA Final Project\DSA_Project\DSA_Project\bin\Debug\net8.0\DSA_Project.exe
+C:\Users\Hashinie\source\repos\DSA Final Project\DSA_Project\DSA_Project\bin\Debug\net8.0\DSA_Project.deps.json
+C:\Users\Hashinie\source\repos\DSA Final Project\DSA_Project\DSA_Project\bin\Debug\net8.0\DSA_Project.runtimeconfig.json
+C:\Users\Hashinie\source\repos\DSA Final Project\DSA_Project\DSA_Project\bin\Debug\net8.0\DSA_Project.dll
+C:\Users\Hashinie\source\repos\DSA Final Project\DSA_Project\DSA_Project\bin\Debug\net8.0\DSA_Project.pdb
+C:\Users\Hashinie\source\repos\DSA Final Project\DSA_Project\DSA_Project\obj\Debug\net8.0\DSA_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hashinie\source\repos\DSA Final Project\DSA_Project\DSA_Project\obj\Debug\net8.0\DSA_Project.AssemblyInfoInputs.cache
+C:\Users\Hashinie\source\repos\DSA Final Project\DSA_Project\DSA_Project\obj\Debug\net8.0\DSA_Project.AssemblyInfo.cs
+C:\Users\Hashinie\source\repos\DSA Final Project\DSA_Project\DSA_Project\obj\Debug\net8.0\DSA_Project.csproj.CoreCompileInputs.cache
+C:\Users\Hashinie\source\repos\DSA Final Project\DSA_Project\DSA_Project\obj\Debug\net8.0\DSA_Project.dll
+C:\Users\Hashinie\source\repos\DSA Final Project\DSA_Project\DSA_Project\obj\Debug\net8.0\refint\DSA_Project.dll
+C:\Users\Hashinie\source\repos\DSA Final Project\DSA_Project\DSA_Project\obj\Debug\net8.0\DSA_Project.pdb
+C:\Users\Hashinie\source\repos\DSA Final Project\DSA_Project\DSA_Project\obj\Debug\net8.0\DSA_Project.genruntimeconfig.cache
+C:\Users\Hashinie\source\repos\DSA Final Project\DSA_Project\DSA_Project\obj\Debug\net8.0\ref\DSA_Project.dll
