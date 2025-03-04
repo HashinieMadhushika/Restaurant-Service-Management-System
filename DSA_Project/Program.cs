@@ -467,6 +467,8 @@ class RestaurantManagementSystem
     {
         Console.WriteLine("\n\t------OUR FOOD MENU------");
         Console.WriteLine("Item Id\t\tFood Item\tPrice");
+        SortMenu();
+
         foreach (var item in menu)
         {
             Console.WriteLine($"   {item.Id}\t\t{item.Name}\t\tRs.{item.Price}");

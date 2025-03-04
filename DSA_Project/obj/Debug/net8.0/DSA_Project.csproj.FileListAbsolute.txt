@@ -12,3 +12,4 @@ C:\Users\Hashinie\source\repos\DSA Final Project\DSA_Project\DSA_Project\obj\Deb
 C:\Users\Hashinie\source\repos\DSA Final Project\DSA_Project\DSA_Project\obj\Debug\net8.0\DSA_Project.pdb
 C:\Users\Hashinie\source\repos\DSA Final Project\DSA_Project\DSA_Project\obj\Debug\net8.0\DSA_Project.genruntimeconfig.cache
 C:\Users\Hashinie\source\repos\DSA Final Project\DSA_Project\DSA_Project\obj\Debug\net8.0\ref\DSA_Project.dll
+C:\Users\Hashinie\source\repos\DSA Final Project\DSA_Project\DSA_Project\obj\Debug\net8.0\DSA_Project.sourcelink.json
